@@ -13,9 +13,9 @@ app_license = "mit"
 # Each item in the list will be shown as an app in the apps page
 # add_to_apps_screen = [
 # 	{
-# 		"name": "oempv2",
+ 		"name": "oempv2",
 # 		"logo": "/assets/oempv2/logo.png",
-# 		"title": "OEMP-V2",
+		"title": "OEMP-V2",
 # 		"route": "/oempv2",
 # 		"has_permission": "oempv2.api.permission.has_app_permission"
 # 	}
@@ -25,7 +25,7 @@ app_license = "mit"
 # ------------------
 
 # include js, css files in header of desk.html
- app_include_css = "/assets/oempv2/css/OSMPRO-DESK.css"
+app_include_css = "/assets/oempv2/css/OSMPRO-DESK.css"
 # app_include_js = "/assets/oempv2/js/oempv2.js"
 #"/assets/oempv2/css/OSMPRO-DESK.css",
 #"/assets/oempv2/css/fonts.css",
@@ -33,7 +33,7 @@ app_license = "mit"
 # include js, css files in header of web template
 #"/assets/oempv2/cssOSMPRO-LG.css",
 #"/assets/oempv2/cssfonts.css",
- web_include_css = "/assets/oempv2/css/OSMPRO-DESK.css"
+# web_include_css = "/assets/oempv2/css/OSMPRO-DESK.css"
 # web_include_js = "/assets/oempv2/js/oempv2.js"
 
 # include custom scss in every website theme (without file extension ".scss")

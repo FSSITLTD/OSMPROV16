@@ -33,7 +33,7 @@ app_include_css = "/assets/oempv2/css/OSMPRO-DESK.css"
 # include js, css files in header of web template
 #"/assets/oempv2/cssOSMPRO-LG.css",
 #"/assets/oempv2/cssfonts.css",
-# web_include_css = "/assets/oempv2/css/OSMPRO-DESK.css"
+ web_include_css = "/assets/oempv2/css/OSMPRO-DESK.css"
 # web_include_js = "/assets/oempv2/js/oempv2.js"
 
 # include custom scss in every website theme (without file extension ".scss")

@@ -13,9 +13,9 @@ app_license = "mit"
 # Each item in the list will be shown as an app in the apps page
 # add_to_apps_screen = [
 # 	{
- 		"name": "oempv2",
+ #		"name": "oempv2",
 # 		"logo": "/assets/oempv2/logo.png",
-		"title": "OEMP-V2",
+#		"title": "OEMP-V2",
 # 		"route": "/oempv2",
 # 		"has_permission": "oempv2.api.permission.has_app_permission"
 # 	}

@@ -42,3 +42,8 @@
 body {
   background-color:  #977e7e;
 }
+@media (min-width: 576px) {
+    body {
+        background-color: #8f5454 !important;
+    }
+}

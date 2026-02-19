@@ -11,4 +11,5 @@ main-section {
     background-color: cornsilk;
 }
 html, body {
-    background-color: #c15d5d;
+    background-color: #c15d5d !important;
+}

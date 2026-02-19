@@ -13,3 +13,7 @@ main-section {
 html, body {
     background-color: #c15d5d !important;
 }
+
+:root, [data-theme=light] {
+--bg-light-gray: cornsilk;
+}

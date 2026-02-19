@@ -15,5 +15,5 @@ html, body {
 }
 
 :root, [data-theme=light] {
---bg-light-gray: cornsilk;
+--bg-light-gray: cornsilk !important;
 }

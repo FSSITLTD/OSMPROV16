@@ -20,3 +20,6 @@ html, body {
 body, frappe-session-status {
     background-color: #5c6980;
 }
+:root, [data-theme=light] {
+   --bg-light-gray: #a63535 !important;
+}

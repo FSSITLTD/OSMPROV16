@@ -1,3 +1,25 @@
+   .body-sidebar {
+        
+            width: 50px;
+            
+                background: #954646 !important;
+                }
+.page-container {
+    background-color: cornsilk;
+}
+main-section {
+    background-color: cornsilk;
+}
+html, body {
+    background-color: #c15d5d !important;
+}
+
+:root, [data-theme=light] {
+--bg-light-gray: cornsilk !important;
+}
+body, frappe-session-status {
+    background-color: #5c6980 !important;
+}
 :root, [data-theme=light] {
    --bg-light-gray: #a63535 !important;
 }

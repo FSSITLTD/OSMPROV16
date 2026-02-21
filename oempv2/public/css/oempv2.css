@@ -17,3 +17,6 @@ html, body {
 :root, [data-theme=light] {
 --bg-light-gray: cornsilk !important;
 }
+body, frappe-session-status {
+    background-color: #5c6980;
+}

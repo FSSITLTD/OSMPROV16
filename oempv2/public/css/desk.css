@@ -28,3 +28,6 @@ body, frappe-session-status {
         background-color: #a63535 !important;
 }
 }
+.login-content.page-card {
+    background-color: cadetblue;
+}

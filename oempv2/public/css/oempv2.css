@@ -86,3 +86,10 @@ button.btn.btn-sm.btn-primary.btn-block.btn-login:hover {
         font-weight: 900 !important;
         font-size: 20px !important;
 }
+input#login_email {
+    font-size: 20px;
+    font-family: Quache !important;
+    font-weight: 900 !important;
+    color: #4a23e7 !important ;
+
+}

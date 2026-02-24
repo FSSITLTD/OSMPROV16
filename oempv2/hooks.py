@@ -26,11 +26,21 @@ app_license = "mit"
 
 # include js, css files in header of desk.html
 app_include_css = "/assets/oempv2/css/oempv2.css"
+pp_include_css = [
+	"/assets/oempv2/css/oempv2.css",
+	"/assets/oempv2/css/fonts.css",
+	#ii
+]
+
 # app_include_js = "/assets/oempv2/js/oempv2.js"
 
 
 # include js, css files in header of web template
-web_include_css = "/assets/oempv2/css/desk.css"
+web_include_css = [
+	"/assets/oempv2/css/desk.css",
+	"/assets/oempv2/css/fonts.css",
+	#ii
+]
 # web_include_js = "/assets/oempv2/js/oempv2.js"
 
 # include custom scss in every website theme (without file extension ".scss")

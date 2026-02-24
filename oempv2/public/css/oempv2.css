@@ -29,12 +29,12 @@ body, frappe-session-status {
 }
 }
 .login-content.page-card {
-    background-color: cadetblue;
+    background-color: cadetblue !important;
 }
 img.app-logo {
-    height: 200px;
+    height: 200px !important;
 }
 
 .page-card-head img {
-    max-height: 2000px;
+    max-height: 2000px !important;
 }

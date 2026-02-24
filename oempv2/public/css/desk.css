@@ -25,9 +25,16 @@ body, frappe-session-status {
 }
 @media (min-width: 576px) {
     body {
-        background-color: #4363cd !important;
+        background-color: #9cc4ea !important;
 }
 }
 .login-content.page-card {
-    background-color: cadetblue;
+    background-color: rgb(61, 131, 133) !important;
+}
+img.app-logo {
+    height: 200px !important;
+}
+
+.page-card-head img {
+    max-height: 2000px !important;
 }

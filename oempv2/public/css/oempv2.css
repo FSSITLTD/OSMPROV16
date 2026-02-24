@@ -109,3 +109,9 @@ input#login_password {
      font-family: 'Quache' !important;
     font-weight: 900 !important;
 }
+.navbar {
+    height: 68px !important;
+    background: #a54646 !important;
+    border-bottom: 1px solid var(--border-color);
+    padding: 0;
+}

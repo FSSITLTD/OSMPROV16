@@ -100,5 +100,12 @@ input#login_email {
     font-weight: 900 !important;
 }
 input#login_email {
-    font-size: 30px !important;
+    font-size: 20px !important;
+     font-family: 'Quache' !important;
+    font-weight: 900 !important;
+}
+input#login_password {
+    font-size: 20px !important;
+     font-family: 'Quache' !important;
+    font-weight: 900 !important;
 }

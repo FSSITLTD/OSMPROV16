@@ -115,3 +115,9 @@ input#login_password {
     border-bottom: 1px solid var(--border-color);
     padding: 0;
 }
+input.input-with-feedback.form-control {
+    background-color: chocolate !important;
+}
+header.desktop-navbar.navbar.navbar-expand.navbar-container {
+    background-color: brown !important;
+}

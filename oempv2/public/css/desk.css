@@ -1,4 +1,4 @@
-    @import url('fontscss');
+    @import url('fonts.css');
    .body-sidebar {
         
             width: 50px;
@@ -114,4 +114,10 @@ input#login_password {
     background: #a54646 !important;
     border-bottom: 1px solid var(--border-color);
     padding: 0;
+}
+input.input-with-feedback.form-control {
+    background-color: chocolate !important;
+}
+header.desktop-navbar.navbar.navbar-expand.navbar-container {
+    background-color: brown !important;
 }

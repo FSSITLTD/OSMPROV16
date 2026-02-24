@@ -99,3 +99,6 @@ input#login_email {
     font-family: 'Quache' !important;
     font-weight: 900 !important;
 }
+input#login_email {
+    font-size: 30px !important;
+}

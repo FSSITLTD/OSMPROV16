@@ -64,3 +64,11 @@ button.btn.btn-sm.btn-primary.btn-block.btn-login:hover {
     font-weight: var(--weight-regular);
     letter-spacing: .02em;
 }
+.for-login .page-card .page-card-body .field-icon, .for-forgot .page-card .page-card-body .field-icon, .for-login-with-email-link .page-card .page-card-body .field-icon, .for-signup .page-card .page-card-body .field-icon, .for-email-login .page-card .page-card-body .field-icon {
+    left: 9px;
+    top: 50%;
+    transform: translateY(-50%);
+    position: absolute;
+    z-index: 2;
+    fill: #36149b !important;
+}

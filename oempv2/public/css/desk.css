@@ -75,3 +75,13 @@ button.btn.btn-sm.btn-primary.btn-block.btn-login:hover {
     z-index: 2;
     fill: #36149b !important;
 }
+.page-card-head h4 {
+    margin-top: 1rem;
+    font-size: var(--text-xl);
+    font-weight: var(--weight-semibold);
+    letter-spacing: .01em;
+    color: #792d2d !important;
+     font-family: Quache !important;
+        font-weight: 900 !important;
+        font-size: 20px !important;
+}

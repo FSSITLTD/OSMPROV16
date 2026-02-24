@@ -38,3 +38,9 @@ img.app-logo {
 .page-card-head img {
     max-height: 2000px !important;
 }
+a.btn.btn-block.btn-default.btn-sm.btn-login-option.btn-login-with-email-link {
+    background-color: #f0d74c !important;
+}
+a.btn.btn-block.btn-default.btn-sm.btn-login-option.btn-login-with-email-link:hover {
+    background-color: #e73a23 !important;
+}

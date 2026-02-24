@@ -95,7 +95,7 @@ input#login_email {
 }
 .for-login .page-card .page-card-body .email-field input, .for-login .page-card .page-card-body .password-field input, .for-forgot .page-card .page-card-body .email-field input, .for-forgot .page-card .page-card-body .password-field input, .for-login-with-email-link .page-card .page-card-body .email-field input, .for-login-with-email-link .page-card .page-card-body .password-field input, .for-signup .page-card .page-card-body .email-field input, .for-signup .page-card .page-card-body .password-field input, .for-email-login .page-card .page-card-body .email-field input, .for-email-login .page-card .page-card-body .password-field input {
     padding-left: 35px;
-    font-size: 20px;
-    font-family: 'Quache';
-    font-weight: 900;
+    font-size: 20px !important;
+    font-family: 'Quache' !important;
+    font-weight: 900 !important;
 }

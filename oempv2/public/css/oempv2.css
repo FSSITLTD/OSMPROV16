@@ -31,3 +31,10 @@ body, frappe-session-status {
 .login-content.page-card {
     background-color: cadetblue;
 }
+img.app-logo {
+    height: 200px;
+}
+
+.page-card-head img {
+    max-height: 2000px;
+}

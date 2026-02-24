@@ -42,7 +42,7 @@ a.btn.btn-block.btn-default.btn-sm.btn-login-option.btn-login-with-email-link {
     background-color: #f0d74c !important;
 }
 a.btn.btn-block.btn-default.btn-sm.btn-login-option.btn-login-with-email-link:hover {
-    background-color: #e73a23 !important;
+    background-color: #4a23e7 !important;
 }
 button.btn.btn-sm.btn-primary.btn-block.btn-login {
     background-color: #70b3ca !important;
@@ -57,4 +57,10 @@ button.btn.btn-sm.btn-primary.btn-block.btn-login:hover {
 .btn.btn-primary:hover {
     background-color: #3a9250;
 
+}
+.for-login .page-card .page-card-body .forgot-password-message>*, .for-forgot .page-card .page-card-body .forgot-password-message>*, .for-login-with-email-link .page-card .page-card-body .forgot-password-message>*, .for-signup .page-card .page-card-body .forgot-password-message>*, .for-email-login .page-card .page-card-body .forgot-password-message>* {
+    color: #a3395f !important;
+    font-size: var(--text-sm);
+    font-weight: var(--weight-regular);
+    letter-spacing: .02em;
 }

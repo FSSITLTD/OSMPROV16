@@ -219,7 +219,7 @@ desktop-modal {
     --control-bg: var(--gray-100);
     --control-bg-on-gray: var(--gray-200);
     --awesomebar-focus-bg: var(--fg-color);
-    --modal-bg: rgb(75, 35, 35) !important;
+    --modal-bg: rgb(144, 212, 146) !important;
     --toast-bg: var(--modal-bg);
     --popover-bg: white;
     --awesomplete-hover-bg: var(--control-bg);

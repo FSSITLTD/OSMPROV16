@@ -131,7 +131,7 @@ desktop-modal {
         & .modal-content {
             top: 120px;
             border-radius: var(--desktop-modal-radius);
-            background: aqua;
+            background: aqua !important;
         }
     }
 }

@@ -121,3 +121,17 @@ input.input-with-feedback.form-control {
 header.desktop-navbar.navbar.navbar-expand.navbar-container {
     background-color: brown !important;
 }
+.search-bar svg {
+    stroke: #a02b2b !important;
+    fill: blanchedalmond !important;
+    margin-bottom: 2px;
+}
+desktop-modal {
+    & .modal-dialog {
+        & .modal-content {
+            top: 120px;
+            border-radius: var(--desktop-modal-radius);
+            background: aqua;
+        }
+    }
+}

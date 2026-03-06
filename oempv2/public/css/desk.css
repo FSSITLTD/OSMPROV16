@@ -22,7 +22,7 @@ body, frappe-session-status {
     background-color: #5c6980 !important;
 }
 :root, [data-theme=light] {
-   --bg-light-gray: #a63535 !important;
+   --bg-light-gray: #f3c2c2 !important;
 }
 @media (min-width: 576px) {
     body {
